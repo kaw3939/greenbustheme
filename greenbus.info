@@ -7,6 +7,12 @@ core = 7.x
 engine = phptemplate
 
 stylesheets[all][] = css/fusion-starter-style.css
+stylesheets[all][] = css/node-artist.css
+stylesheets[all][] = css/node-business.css
+stylesheets[all][] = css/node-event.css
+stylesheets[all][] = css/node-gbtv.css
+stylesheets[all][] = css/node.css
+stylesheets[all][] = css/teaser.css
 
 regions[sidebar_first] = Sidebar first
 regions[sidebar_second] = Sidebar second
